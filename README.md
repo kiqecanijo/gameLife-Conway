@@ -1,4 +1,4 @@
-# Drawtest
+# Conway Game_of_Life
 
 ## _Test repo 🤞🏻_
 
