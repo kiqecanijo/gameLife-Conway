@@ -2,9 +2,9 @@
  Conway's game of life in React
 
  inspired using:
- https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
- https://github.com/benawad/react-conway-game-of-life
- https://css-tricks.com/how-to-create-neon-text-with-css/
+ * https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+ * https://github.com/benawad/react-conway-game-of-life
+ * https://css-tricks.com/how-to-create-neon-text-with-css/
 
 ## _Test repo 🤞🏻_
 
