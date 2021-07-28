@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
   <React.StrictMode>
-    <link rel="manifest" href="/manifest.json" />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
